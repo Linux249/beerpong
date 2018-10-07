@@ -1,0 +1,41 @@
+{
+  "name": "beerpong",
+  "version": "1.0.0",
+  "description": "Design",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linux249/beerpong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linux249/beerpong/issues"
+  },
+  "homepage": "https://github.com/Linux249/beerpong#readme",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-components": "^0.5.1",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.0.4",
+    "redux": "^4.0.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
